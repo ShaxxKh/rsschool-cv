@@ -1,0 +1,1 @@
+https://ShaxxKh.github.io/rsschool-cv/cv
