@@ -1,7 +1,7 @@
 # Resume
 
 **1. Full Name:** Khodjaev Shakhzod
-
+![My photo](https://designpress-10674.kxcdn.com/wp-content/uploads/2012/07/steve-jobs.jpg)
 **2. Contacts:**
 
 - Phone number: +998995774577
