@@ -14,9 +14,9 @@ One of my main goals is to learn **coding** and go _abroad_ to study a **master 
 
 **4. Skills:**
 
-| Driving license | Level of Russian | Level of French |
-| --------------- | ---------------- | --------------- |
-| Yes             | ~~C1~~ C2        | С2              |
+| Favourite programming language | Favourite methodology | Level of Russian |
+| ------------------------------ | --------------------- | ---------------- |
+| JavaScript                     | Kanban                | С2               |
 
 **5. Code examples:**
 
