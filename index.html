@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <meta charset="utf-8" />
+    <title>CV</title>
+  </head>
+  <body>
+    <h1>Resume</h1>
+    <h3>1. Full Name:</h3>
+    <p>Khodjaev Shakhzod</p>
+    <img
+      width="250px"
+      src="https://designpress-10674.kxcdn.com/wp-content/uploads/2012/07/steve-jobs.jpg"
+      alt="My photo"
+      border="2"
+    />
+    <h3>2. Contacts:</h3>
+    <div>
+      <ul class="contacts">
+        <li>Phone number: +998995774577</li>
+        <li><a href="http://t.me/ShaXx_WP">Telegram</a></li>
+        <li><a href="http://instagram.com/ShaXx_kh">Instagram</a></li>
+      </ul>
+    </div>
+    <h3>3. Goals:</h3>
+    <p>
+      One of my main goals is to learn <b>coding</b> <br />and go
+      <em>abroad</em> to study a <b>master degree</b> in this sphere
+    </p>
+
+    <h3>4. Skills:</h3>
+    <table border="1">
+      <tr>
+        <th>Driving license</th>
+        <th>Level of French</th>
+        <th>Level of Russian</th>
+      </tr>
+      <tr>
+        <td>Yes</td>
+        <td>C1</td>
+        <td>C2</td>
+      </tr>
+    </table>
+
+    <h3>5. Code examples:</h3>
+    <table class="codeposition" border="1">
+      <td>
+        function rangeOfNumbers (startNum, endNum) {
+        <br />
+        if (endNum - startNum === 0){
+        <br />
+        return [startNum];
+        <br />
+        }else {
+        <br />
+        var arr = rangeOfNumbers(startNum, endNum - 1);
+        <br />
+        arr.push(endNum);
+        <br />
+        return arr;
+        <br />
+        }
+        <br />
+        }
+        <br />
+        console.log(rangeOfNumbers(1,5));
+      </td>
+    </table>
+    <h3>6. Experience:</h3>
+    1. Administrative manager in Learning Center for <b>3 years</b> <br />2.
+    Manager at EPAM for <b>6 years</b>
+    <h3>7. Education:</h3>
+    <p>
+      I learned <b>HTML & CSS</b> on <em>freecodecamp</em>, <br />attended some
+      seminars of <em>RSSchool</em>on <b>Javascript</b>, <br />and took some
+      courses on <b>Javascript</b>in my hometown at <em>Data</em>learning center
+    </p>
+    <h3>8. English</h3>
+    <p>
+      I have IELTS certificate of <b>band score 7.0</b>. <br />After that I
+      moved to <em>Great Britain</em> and had great experience <br />with native
+      speakers and improved my English
+    </p>
+    <h4>IELTS skills:</h4>
+    1. Listening: 8.0
+    <br />2. Reading: 7.5 <br />3. Writing: 6.0 <br />4. Speaking: 7.0
+
+    <style>
+      body {
+        font-family: cursive;
+        width: 1024px;
+        margin-left: auto;
+        margin-right: auto; 
+        text-align: center;
+      }
+      table {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      h3 {
+        color: sandybrown;
+      }
+      h1 {
+        color: purple;
+      }
+      h4 {
+        color: darkgray;
+      }
+      .codeposition {
+        text-align: left;
+      }
+      .contacts {
+        list-style-type: none;
+      }
+    </style>
+  </body>
+</html>
